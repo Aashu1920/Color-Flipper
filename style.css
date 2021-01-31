@@ -1,0 +1,18 @@
+main {
+  text-align: center;
+  justify-content: center;
+  margin-top: 200px;
+  display: grid;
+}
+
+.container h2 {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 5px;
+}
+
+#btn {
+  margin: 15px;
+}
